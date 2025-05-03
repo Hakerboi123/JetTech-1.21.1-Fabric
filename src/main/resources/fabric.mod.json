@@ -3,15 +3,17 @@
 	"id": "jettech",
 	"version": "${version}",
 	"name": "JetTech",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "JetTech adds Numerous new blocks, items and fun tech stuff to minecraft!",
 	"authors": [
-		"Me!"
+		"Developers: ",
+		" - Hakerboi"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Hakerboi123/JetTech-1.21.1-Fabric",
+		"sources": "https://github.com/Hakerboi123/JetTech-1.21.1-Fabric",
+		"discord": "https://discord.gg/zkyvsB3xAz"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/jettech/icon.png",
 	"environment": "*",
 	"entrypoints": {
